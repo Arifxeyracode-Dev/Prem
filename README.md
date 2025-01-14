@@ -14,14 +14,30 @@
 ### 🚀 Install on termux
 ```
 rm -rf Prem
+
 pkg install git python -y
+
 pip3.12 install requests pycryptodomex questionary
+
 pip install fake_useragent
+
+pip install bs4
+
+pip install rich
+
 pip install pycryptodome
+
 pip install pytz
+
 git clone https://github.com/Arifxeyracode-Dev/Prem
+
 cd Prem
+
 python3.12 menu.py
+
+New Update Free All User
+
+• KEY REGISTER :  MFNNQ-OEKME-FESQB-BGTCC •
 ```
 
 ### If you have installed it
