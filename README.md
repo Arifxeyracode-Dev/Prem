@@ -15,6 +15,9 @@
 ```
 pkg install git python -y
 pip3.12 install requests pycryptodomex questionary
+pip install fake_useragent
+pip install pycryptodome
+pip install pytz
 git clone https://github.com/Arifxeyracode-Dev/Prem
 cd Prem
 python3.12 menu.py
