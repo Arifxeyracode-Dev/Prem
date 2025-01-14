@@ -13,6 +13,7 @@
 
 ### 🚀 Install on termux
 ```
+rm -rf Prem
 pkg install git python -y
 pip3.12 install requests pycryptodomex questionary
 pip install fake_useragent
